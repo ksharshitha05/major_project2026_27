@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Plate & Clone Detection Dashboard",
+  "description": "An AI-powered dashboard for vehicle detection, number plate OCR, and cloned vehicle detection using CCTV feed analysis, distance-time checks, and physical impossibility rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
